@@ -1,0 +1,37 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+/build/
+/generated/
+.dart_tool/
+*.iml
+*.metadata
+
+# Xcode
+# (Most Flutter projects don't include Xcode, but if they do, these can be ignored)
+ios/Podfile.lock
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.generated/
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspective
+*.xcuserdatad
+
+# Android
+# (Most Flutter projects don't include Android, but if they do, these can be ignored)
+android/.gradle/
+android/build/
+android/gradle/
+android/local.properties
+android/app/build/
+android/captures/
+android/.idea/
+
+# Visual Studio Code
+.vscode/
